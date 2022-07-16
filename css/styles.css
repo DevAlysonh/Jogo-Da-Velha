@@ -68,9 +68,11 @@ h1 {
 
 /* classe esconder */
 
-/*.hide {
+.hide {
     display: none !important;
-}*/
+}
+
+/*Pontuação:*/
 
 #scoreboard-container {
     font-weight: bold;
@@ -113,5 +115,4 @@ h1 {
     background-color: #000;
     color: #fff;
     padding: 20px;
-    display: none;
 }
